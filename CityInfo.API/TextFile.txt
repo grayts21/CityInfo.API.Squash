@@ -1,0 +1,8 @@
+﻿master = 1
+aaa
+master1 = 2
+bbb
+feature333 = 1
+ccc
+feature333 = 2
+ddd
